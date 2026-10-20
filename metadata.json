@@ -1,0 +1,6 @@
+{
+  "name": "KAKA AI",
+  "description": "KAKA AI - বাংলা ও ইংরেজি স্মার্ট ভয়েস ও চ্যাট অ্যাসিস্ট্যান্ট",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
